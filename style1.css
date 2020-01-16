@@ -1,0 +1,11 @@
+.main {
+    width: 250px;
+    height: 250px;
+    margin-top: 40px;
+    background-color: teal;
+}
+input {
+    width: 400px;
+    height: 40px;
+    font-size: 24px;
+}
